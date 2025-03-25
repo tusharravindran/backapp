@@ -1,1 +1,9 @@
+/* Import Tailwind (if necessary) */
 @import "tailwindcss";
+
+/* Custom styles */
+.ass {
+    color: rgb(255, 255, 0);
+    padding: auto;
+    border: 2px solid black; /* Make sure you define a border style like 'solid' */
+}
